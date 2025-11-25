@@ -1,0 +1,5 @@
+模型指标表：
+       Model  Accuracy       F1      AUC
+    LightGBM  0.626088 0.602644 0.758563
+     XGBoost  0.712124 0.216926 0.757582
+RandomForest  0.680894 0.481988 0.722747
